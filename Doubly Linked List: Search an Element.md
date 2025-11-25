@@ -34,7 +34,7 @@ To write a Python program that:
 ---
 
 ## 💻 Program
-
+```
 class Node q:
 def init (self, data): 
    self.data = data 
@@ -77,7 +77,7 @@ Dllist.insert_end(0)
 Dllist.insert_end(1) 
 print(Dllist.search(0)) 
 print(Dllist.search(3))
-
+```
 ## Sample Output
 ![image](https://github.com/user-attachments/assets/c33c09b5-84d2-4382-a1e9-b8522a49b7eb)
 
